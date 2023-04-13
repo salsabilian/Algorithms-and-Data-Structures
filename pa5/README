@@ -1,0 +1,14 @@
+Shayan Salsabilian
+ssalsabi
+pa5
+README
+
+Table of Contents:
+-README: holds the table of contents for the assignment
+-Makefile: compiles and makes executables for the program
+-List.c: holds the underlying the data structure for the graph
+-List.h: header file for the data structure for the graph
+-Graph.h: header file for the graph file
+-Graph.c: creates the graph for FindComponents.c
+-GraphTest.c: Tested Graph.c to make sure it works
+-FindComponents.c: Creates the output file for grading

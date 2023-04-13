@@ -1,0 +1,11 @@
+Shayan Salsabilian
+ssalsabi
+pa1
+README
+
+Table of Contents:
+-List.java: Creates a bi-directional queue for holding the indices of the array created in Lex.java
+-ListClient.java: used as a very simple test to ensure that our List program is working correctly
+-Lex.java: sorts the lines in the infile in alphabetical order using List.java and prints to the outfile
+-Makefile: makes it so we can compile and run our program
+-README: contains a table of contents to the program

@@ -1,0 +1,12 @@
+Shayan Salsabilian
+pa2
+ssalsabi
+README
+
+Table of Contents:
+-List.c: has the necessary functions to make a bidirectional queue with a cursor
+-List.h: holds the prototypes for the functions so we can access the List.c through List.h
+-ListClient.c: tests the functions for List.c to make sure they work correctly
+-Makefile: creates the executable Lex, the submit, and the check utilities
+-Lex.c: organizing the array alphabetically and reprint them to the out file
+-README: holds the table of contents for pa2

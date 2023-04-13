@@ -1,0 +1,13 @@
+Shayan Salsabilian
+pa3
+ssalsabi
+README
+
+Table of Contents:
+Sparse.java - prints basic Matrix operations to file
+Matrix.java - Does basic Matrix operations called by Sparse.java
+List.java - The underlying structure for the Matrix
+MatrixTest.java - Test file to make sure Matrix is working correctly
+ListTest.java - Test file to make sure List is working correctly
+Makefile - Compiles and runs the jar file
+README - Holds the table of contents
